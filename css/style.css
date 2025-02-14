@@ -1,0 +1,8 @@
+p {
+    display: block;
+    width: 100%;
+    background-color: #F2F0EC;
+    color: black;
+    min-height: 200px;
+}
+
